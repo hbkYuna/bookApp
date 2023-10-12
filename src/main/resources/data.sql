@@ -86,7 +86,7 @@ insert into AWARD(TITLE, INFO, COUNTRY)
 values ('Nebula Award', 'This is test info', 'China');
 
 insert into AWARD(TITLE, INFO, COUNTRY)
-values ('Confituur Bookstores'' Prize', 'This is test info', 'Belgium');
+values ('Confituur Bookstores', 'This is test info', 'Belgium');
 
 insert into AWARD(TITLE, INFO, COUNTRY)
 values ('Gouden Uil', 'This is test info', 'Netherlands');
